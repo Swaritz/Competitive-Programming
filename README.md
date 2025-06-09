@@ -19,7 +19,7 @@
 ## 🧠 Notable Learnings
 ...
 
-## 💡 Problem of the Week (Updated)
+## 💡 Problem of the Week
 ...
 
 ---
